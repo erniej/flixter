@@ -13,14 +13,16 @@
 }
 
 .hero {
-  background: url('hero.jpeg') no-repeat center center fixed; 
+  background: url('hero.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 300px;
+  height: 350px;
   box-shadow: 0px 3px 8px #2a2a2a;
-  vertical-alignment: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1, h2, h3, h4, h5, h6, .navbar {
@@ -30,18 +32,19 @@ h1, h2, h3, h4, h5, h6, .navbar {
 .frosty {
   background: rgba(0, 0, 0, 0.5);
   color: white;
+  margin: 0;
 }
 
 .frosty h1 {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
-  text-shadow: rgba(0, 0, 0, 0.95) 1px 1px; 
+  text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
 }
 
 .frosty h2 {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 200;
-  text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;  
+  text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
 }
 
 .btn {
