@@ -50,3 +50,9 @@ end
 
 # Use Rails 12factor gem
 gem 'rails_12factor', group: :production
+
+# Use simple_form
+gem 'simple_form'
+
+# Use devise for user authentication
+gem 'devise', '>= 3.2.4'
