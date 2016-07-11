@@ -59,3 +59,10 @@ gem 'devise', '>= 3.2.4'
 
 # Use carrierwave for image upload
 gem 'carrierwave'
+
+# Use figaro
+gem 'figaro'
+
+#Use fog
+gem 'fog'
+
