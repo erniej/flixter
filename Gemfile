@@ -60,6 +60,8 @@ gem 'devise', '>= 3.2.4'
 # Use carrierwave for image upload
 gem 'carrierwave'
 
+gem 'mini_magick', '~> 4.3.1'
+
 # Use figaro
 gem 'figaro'
 
