@@ -58,7 +58,7 @@ gem 'simple_form'
 gem 'devise', '>= 3.2.4'
 
 # Use carrierwave for image upload
-gem 'carrierwave'
+gem 'carrierwave-aws'
 
 gem 'mini_magick', '~> 4.3.1'
 
@@ -67,4 +67,3 @@ gem 'figaro'
 
 #Use fog
 gem 'fog'
-
