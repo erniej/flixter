@@ -67,3 +67,5 @@ gem 'figaro'
 
 #Use fog
 gem 'fog'
+
+gem 'stripe'
