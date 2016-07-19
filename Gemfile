@@ -69,3 +69,5 @@ gem 'figaro'
 gem 'fog'
 
 gem 'stripe'
+
+gem 'ranked-model'
