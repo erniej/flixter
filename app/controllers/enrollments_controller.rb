@@ -26,7 +26,7 @@ class EnrollmentsController < ApplicationController
     redirect_to root_path
   end
 
-  private
+  privateqq
 
   def current_course
     @current_course ||= Course.find(params[:course_id])
