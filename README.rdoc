@@ -2,7 +2,7 @@
 
 A content creation and delivery application built using Ruby on Rails, Javascript, and jQuery.
 
-VIEW APP: [here](https://http://flixter-ernie-jamison.herokuapp.com/)
+VIEW APP: [here](https://flixter-ernie-jamison.herokuapp.com)
 
 ### Features:
 
