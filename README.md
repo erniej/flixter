@@ -2,7 +2,7 @@
 
 A content creation and delivery application built using Ruby on Rails, Javascript, and jQuery.
 
-VIEW APP: [here](https://http://flixter-ernie-jamison.herokuapp.com/)
+Check out the live Flixter application [here](https://flixter-ernie-jamison.herokuapp.com) and create and account to sign up for a course and/or to create a course.
 
 ### Features:
 
@@ -18,4 +18,4 @@ VIEW APP: [here](https://http://flixter-ernie-jamison.herokuapp.com/)
 
 * A user dashboard shows all courses that a user is enrolled in and if the user is also an instructor it shows all of the courses they are teaching.
 
-![alt tag](app/assets/images/flixter.png)
+![alt tag](flixter/app/assets/images/flixter.png)
