@@ -18,4 +18,4 @@ Check out the live Flixter application [here](https://flixter-ernie-jamison.hero
 
 * A user dashboard shows all courses that a user is enrolled in and if the user is also an instructor it shows all of the courses they are teaching.
 
-![alt tag](flixter/app/assets/images/flixter.png)
+![alt tag](app/assets/images/flixter.png)
